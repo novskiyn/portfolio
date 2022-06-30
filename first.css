@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+}
+
+ a {
+    color: white;
+} 
+
+.intro {
+    height: 675px;
+    
+}
+.high {
+    font-size: 35px;
+    padding-bottom: 25px;
+    padding-top: 13px;
+    background-color: #e9f0e9;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+.sad {
+    position: absolute;
+    color: white;
+    top: 500px;
+    font-size: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+    left: 137px;
+}
+.gad {
+    position: absolute;
+    color: white;
+    font-size: 25px; 
+    font-family: 'Source Sans Pro', sans-serif;
+    top: 560px;
+    left: 65px;
+}
+.photo {
+    top: 95px;
+    left: 175px;
+    background-image: url(./msg1260430202-33080.jpg);
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 999;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
